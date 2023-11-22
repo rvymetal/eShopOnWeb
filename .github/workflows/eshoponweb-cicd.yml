@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 232a5834-3511-4fa2-a6df-383bc030dfac
-  WEBAPP-NAME: az400-webapp-eshoponweb-radek45376813
+  WEBAPP-NAME: az400-webapp-eshoponweb-radek
 
 jobs:
   #Build, test and publish .net web project in repository
